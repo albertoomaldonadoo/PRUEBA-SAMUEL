@@ -43,13 +43,13 @@ a:active{
 }
 
 ul { 
-    list-style: none; /* Quita los puntos de la lista */ 
+    list-style: none; 
     padding: 0; 
-    justify-content: center; /* Centra los elementos de la lista */ 
+    justify-content: center;
 }
 
 ul li { 
-    margin: 0 15px; /* Espacio entre los elementos de la lista */ 
+    margin: 0 15px; 
     text-align: center;
 }
 
@@ -77,11 +77,11 @@ footer h3 {
 }
 
 .map-container { 
-    text-align: center; /* Centra el contenido dentro del contenedor */ 
+    text-align: center; 
 }
 
 .audio-container { 
-    text-align: center; /* Centra el contenido dentro del contenedor */ 
+    text-align: center; 
 }
 
 h2{

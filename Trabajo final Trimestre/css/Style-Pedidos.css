@@ -43,13 +43,13 @@ a:active{
 }
 
 ul { 
-    list-style: none; /* Quita los puntos de la lista */ 
+    list-style: none; 
     padding: 0; 
-    justify-content: center; /* Centra los elementos de la lista */ 
+    justify-content: center; 
 }
 
 ul li { 
-    margin: 0 15px; /* Espacio entre los elementos de la lista */ 
+    margin: 0 15px;
     text-align: center;
 }
 
@@ -81,7 +81,7 @@ footer h3 {
 .contenedor { 
     display: flex; 
     flex: 1;
-    align-items: center; /* Alinea los elementos al mismo nivel */ 
+    align-items: center; 
 }
 
 .texto { 
@@ -90,7 +90,7 @@ footer h3 {
 } 
 .iframe-container { 
     padding: 20px; 
-    text-align: right; /* Alineación del iframe a la derecha */ 
+    text-align: right; 
 }
 
 @media (max-width: 900px) {
